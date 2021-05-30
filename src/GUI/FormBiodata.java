@@ -25,18 +25,6 @@ public class FormBiodata {
                 mhs.setNim(nim);
                 //Tampilkan output ke FORM
                 labelHasil.setText(mhs.toString());
-                /*labelHasil.setText(
-                        "Nama\t\t: " + mhs.getNama() + "\n"
-                                + "NIM\t\t: " + mhs.getNim() + "\n"
-                                + "Jenjang Pendidikan\t\t: " + mhs.getjenjangPendidikan() + "\n"
-                                + "Angkatan\t\t: " + mhs.gettahunAngkatan() + "\n"
-                                + "Fakultas\t\t: " + mhs.getfakultas() + "\n"
-                                + "Jurusan\t\t: " + mhs.getjurusan() + "\n"
-                                + "Jenis Kelamin\t\t: " + mhs.getjenisKelamin() +"\n"
-
-                );
-
-                 */
 
             }
         });

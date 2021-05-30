@@ -105,7 +105,7 @@ public class Mahasiswa {
                 "Nama = " + nama +
                 ", NIM = " + nim  +
                 ", Jenjang Pendidikan = " + getjenjangPendidikan() +
-                ", Tahun Angkata = " + gettahunAngkatan() +
+                ", Tahun Angkatan = " + gettahunAngkatan() +
                 ", Fakultas = " + getjurusan() +
                 ", Jurusan = " + getjurusan() +
                 ", Jenis Kelamin = " + getjenisKelamin() +
